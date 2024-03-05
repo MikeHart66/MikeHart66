@@ -29,7 +29,7 @@ Indie developer, support developer, jack of all trades, you name it.
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
-    <a href="https://github.com/cerberusxdev/cerberus"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cerberusxdev&repo=cerberus&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Cerberus X"></a>
+    <a href="https://github.com/philmoe/cerberus"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philmoe&repo=cerberus&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Cerberus X"></a>
   </p>
 
 </details>
